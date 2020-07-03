@@ -1,0 +1,22 @@
+virenv-scrapy
+SECTION 1 : INTRODUCTION
+	scrapy -> use to crawl web
+		spyders
+		pipelines
+		middlewares
+		engine
+		scheduler FIFO
+	robots.txt-> agent application, allow and disallow.
+	conda install -c conda-forge scrapy==1.6 pylint autopep8 -y
+SECTION 2: SCRAPY FUNDAMENTALS
+	don't have same spider names generated -> spiders with sam name will create conflict - must be unique.
+	SCRAPY SHELL :
+	1. Debug
+	2. Coding
+	3. Getting response -> view response
+	creation of  XPath and CSS selectors
+SECTION 3: XPATH EXPRESSIONS AND CSS SELCTORES
+	XPATH--XML Path language.--> mainly query xml objects
+	
+	
+	

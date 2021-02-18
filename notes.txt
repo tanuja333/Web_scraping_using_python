@@ -15,8 +15,9 @@ SECTION 2: SCRAPY FUNDAMENTALS
 	2. Coding
 	3. Getting response -> view response
 	creation of  XPath and CSS selectors
-SECTION 3: XPATH EXPRESSIONS AND CSS SELCTORES
+SECTION 3: XPATH EXPRESSIONSt AND CSS SELCTORES
 	XPATH--XML Path language.--> mainly query xml objects
-	
-	
-	
+	selcting css elements using css selectors --by practical and by theory
+		- .class.class or #id#id
+	Xpath fundamentals:
+		
